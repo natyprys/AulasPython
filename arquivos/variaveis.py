@@ -4,3 +4,4 @@ print(type(idade))
 
 idadeTexto =str(idade)
 print(type(idadeTexto))
+
